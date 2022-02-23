@@ -1,0 +1,5 @@
+#enter names of students that are valid
+#format: first_name last_name (e.g. John Appleseed)
+Student One
+Student Two
+Student Three

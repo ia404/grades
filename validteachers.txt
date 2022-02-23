@@ -1,0 +1,6 @@
+#enter names of teachers that are valid
+#format: first_name last_name (e.g. John Appleseed)
+Teacher One
+Teacher Two
+Teacher Three
+Teacher Four

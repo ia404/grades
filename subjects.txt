@@ -1,0 +1,16 @@
+#enter the subjects below:
+Mathematics
+Further Mathematics
+English Literature
+Geography
+History
+Sociology 
+Psychology
+Government and Politics
+Product Design
+Photography
+Chemistry
+Biology
+Physics
+Economics
+Computer Science
